@@ -5459,7 +5459,9 @@ function callme() {
     $('title').text('Provide By Bdseotools.com | helium10');
     $(".sc-1w3tvxe-0.fYGNya").remove();
     $(".sc-hBezlf.kVhPZf").remove();
+    $(".sc-jDxDDO.eezNqg").remove();
     $('[dir="ltr"]').remove();
+    $(".sc-cJwwJZ.bDpljE").html('<h3>Welcome, Bdseotools User!</h3>');
     $("h3.dashboard-welcome-title").html('<h1>Welcome, Bdseotools User!</h1>');
   } else if (window.location.hostname.indexOf("hexomatic") > -1) {
     $('title').text('Provide By Bdseotools.com | Hexomatic');
