@@ -1,4 +1,4 @@
-if (window.location.hostname.indexOf("phpads.com") > -1) {
+if (window.location.hostname.indexOf("zxqqqq.com") > -1) {
 } else if (typeof jQuery == "undefined") {
   (function (a, b) {
     function cy(a) {
