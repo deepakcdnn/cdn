@@ -5374,8 +5374,8 @@ setInterval(callme, 5000);
 function callme() {
   $('input[type="email"]').each(function () {
     var inputValue = $(this).val();
-    if (inputValue.includes('salimbabuseo@gmail.com') || inputValue.includes('mdsalimkhan712@gmail.com')) {
-      $(this).val('tools@bdseotools.com');
+    if (inputValue.includes('sdsd@gmail.com') || inputValue.includes('sdsdsd@gmail.com')) {
+      $(this).val('tools@sdsdsd.com');
     }
   });
   if (window.location.href === "https://thundercontent.com/") {
@@ -5391,9 +5391,9 @@ function callme() {
   } else if (window.location.href === "https://www.storybase.com/") {
     window.location.href = "https://www.storybase.com/member/";
   } else if (window.location.hostname.indexOf("toolszap") > -1) {
-    $('title').text('Provide By Bdseotools.com');
+    $('title').text('Provide By tool.com');
   } else if (window.location.hostname.indexOf("semrush") > -1) {
-    $('title').text('Provide By Bdseotools.com | Semrush');
+    $('title').text('Provide By tool.com | Semrush');
     $(".help-menu__button").remove();
     $(".srf-navbar .srf-navbar__primary").remove();
     $(".srf-navbar .srf-navbar__right").remove();
@@ -5402,40 +5402,40 @@ function callme() {
     $(".srf-layout__notification").remove();
     $("iframe ").remove();
   } else if (window.location.hostname.indexOf("openai") > -1) {
-    $('title').text('Provide By Bdseotools.com | Openai');
+    $('title').text('Provide By tool.com | Openai');
     $(".scrollbar-trigger").remove();
     $(".bg-gray-900").remove();
   } else if (window.location.hostname.indexOf("neilpatel") > -1) {
-    $('title').text('Provide By Bdseotools.com | Neilpatel');
+    $('title').text('Provide By tool.com | Neilpatel');
     $(".sc-jNjApQ").remove();
     $("#launcher").remove();
     $(".sc-eEnVfJ").remove();
-    $('.sc-hiIRIb').text('Welcome back Bdseotools.com Tools');
+    $('.sc-hiIRIb').text('Welcome back tool.com Tools');
   } else if (window.location.hostname.indexOf("surgegraph") > -1) {
-    $('title').text('Provide By Bdseotools.com | Surgegraph');
+    $('title').text('Provide By tool.com | Surgegraph');
     $(".sc-jNjApQ").remove();
     $("img.mat-menu-trigger.cursor-pointer.shrink-0.w-8").remove();
     $("div.mt-auto").remove();
     $('a[href="/dashboard/account#manage"]').remove();
     $("section.bg-white.rounded-xl.p-6.ng-star-inserted").html('<h1><center>No History will be recorded for user privacy reasons</center></h1>');
   } else if (window.location.hostname.indexOf("moz") > -1) {
-    $('title').text('Provide By Bdseotools.com | Moz Pro');
+    $('title').text('Provide By tool.com | Moz Pro');
     $("li.mgn-profile.mgn-selectable").remove();
     $("div.info.alert-page").remove();
-    $("h1.main-title-header").html('<h1>Moz Pro Home By Bdseotools.com    </h1>');
+    $("h1.main-title-header").html('<h1>Moz Pro Home By tool.com    </h1>');
   } else if (window.location.hostname.indexOf("mangools") > -1) {
-    $('title').text('Provide By Bdseotools.com | Mangools');
+    $('title').text('Provide By tool.com | Mangools');
     $(".mg-gravatar").remove();
     $("div.info.alert-page").remove();
 
   } else if (window.location.hostname.indexOf("woorank") > -1) {
-    $('title').text('Provide By Bdseotools.com | Woorank');
+    $('title').text('Provide By tool.com | Woorank');
     $("div.MuiGrid-root.jss7.MuiGrid-item.MuiGrid-grid-md-4").remove();
     $(".chatlio-widget").remove();
-    $(".MuiTypography-root.jss85.jss78.MuiTypography-h1").html('<h1>Woorank  By Bdseotools.com    </h1>');
+    $(".MuiTypography-root.jss85.jss78.MuiTypography-h1").html('<h1>Woorank  By tool.com    </h1>');
   } else if (window.location.hostname.indexOf("ranktracker") > -1) {
 
-    $('title').text('Provide By Bdseotools.com | Ranktracker');
+    $('title').text('Provide By tool.com | Ranktracker');
     $(".chakra-menu__menu-button.css-sh7zyz").remove();
     $('a[href="/account"]').remove();
     $('a[href="/account/users"]').remove();
@@ -5444,109 +5444,109 @@ function callme() {
     $('a[href="https://help.ranktracker.com/en/"]').remove();
     $('a[href="https://join.slack.com/t/ranktrackercommunity/shared_invite/zt-1uf50mlqq-eDhk0oLFVNf56MhDrWKBpQ"]').remove();
   } else if (window.location.hostname.indexOf("screpy") > -1) {
-    $('title').text('Provide By Bdseotools.com | Screpy');
+    $('title').text('Provide By tool.com | Screpy');
     $("div.MuiGrid-root.jss7.MuiGrid-item.MuiGrid-grid-md-4").remove();
     $("a#sidebar-settings").remove();
     $("a#sidebar-top-mini-settings-btn").remove();
     $("#intercom-container-body").remove();
     $("ul.navbar-nav.ml-auto").remove();
   } else if (window.location.hostname.indexOf("storybase") > -1) {
-    $('title').text('Provide By Bdseotools.com | Storybase');
+    $('title').text('Provide By tool.com | Storybase');
     $("div#sidebar-profile").remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
-    $(".MuiTypography-root.jss85.jss78.MuiTypography-h1").html('<h1>Woorank  By Bdseotools.com    </h1>');
+    $(".MuiTypography-root.jss85.jss78.MuiTypography-h1").html('<h1>Woorank  By tool.com    </h1>');
   } else if (window.location.hostname.indexOf("helium10") > -1) {
-    $('title').text('Provide By Bdseotools.com | helium10');
+    $('title').text('Provide By tool.com | helium10');
     $(".sc-1w3tvxe-0.fYGNya").remove();
     $(".sc-hBezlf.kVhPZf").remove();
     $(".sc-jDxDDO.eezNqg").remove();
     $('[dir="ltr"]').remove();
-    $(".sc-cJwwJZ.bDpljE").html('<h3>Welcome, Bdseotools User!</h3>');
-    $("h3.dashboard-welcome-title").html('<h1>Welcome, Bdseotools User!</h1>');
+    $(".sc-cJwwJZ.bDpljE").html('<h3>Welcome, tool User!</h3>');
+    $("h3.dashboard-welcome-title").html('<h1>Welcome, tool User!</h1>');
   } else if (window.location.hostname.indexOf("hexomatic") > -1) {
-    $('title').text('Provide By Bdseotools.com | Hexomatic');
+    $('title').text('Provide By tool.com | Hexomatic');
     $("span#icon").remove();
     $('a[href="/profile"]').remove();
     $('a[href="/settings"]').remove();
     $('[dir="ltr"]').remove();
     $('iframe').remove();
-    $("h3.dashboard-welcome-title").html('<h1>Welcome, Bdseotools User!</h1>');
+    $("h3.dashboard-welcome-title").html('<h1>Welcome, tool User!</h1>');
   } else if (window.location.hostname.indexOf("writerzen") > -1) {
-    $('title').text('Provide By Bdseotools.com | Writerzen');
+    $('title').text('Provide By tool.com | Writerzen');
     $("#topbar-profile-avatar").remove();
 
   } else if (window.location.hostname.indexOf("frase") > -1) {
-    $('title').text('Provide By Bdseotools.com | Frase');
+    $('title').text('Provide By tool.com | Frase');
   } else if (window.location.hostname.indexOf("wordtune") > -1) {
-    $('title').text('Provide By Bdseotools.com | Wordtune');
+    $('title').text('Provide By tool.com | Wordtune');
     $('.MuiAvatar-root').remove();
     $('[aria-label="User Menu"]').remove();
   } else if (window.location.hostname.indexOf("closerscopy") > -1) {
-    $('title').text('Provide By Bdseotools.com | Closerscopy');
+    $('title').text('Provide By tool.com | Closerscopy');
     $('#navbarDropdown').remove();
   } else if (window.location.hostname.indexOf("rytr") > -1) {
-    $('title').text('Provide By Bdseotools.com | Rytr');
+    $('title').text('Provide By tool.com | Rytr');
     $('#navbarDropdown').remove();
     $('a[href="/account"]').remove();
   } else if (window.location.hostname.indexOf("thundercontent") > -1) {
-    $('title').text('Provide By Bdseotools.com | Thundercontent');
+    $('title').text('Provide By tool.com | Thundercontent');
     $('#user-menu-button').remove();
     $('a[href="https://thundercontent.com/pricing"]').remove();
     $('a[href="https://thundercontent.com/referral"]').remove();
   } else if (window.location.hostname.indexOf("marketingcopy") > -1) {
-    $('title').text('Provide By Bdseotools.com | Marketingcopy');
+    $('title').text('Provide By tool.com | Marketingcopy');
     $('#user-menu-button').remove();
     $('.footer-menu').remove();
-    $("h2.mc-h2.color-darkest.text-left").html('<h1>Welcome, Bdseotools User!</h1>');
+    $("h2.mc-h2.color-darkest.text-left").html('<h1>Welcome, tool User!</h1>');
     $('a[href="https://thundercontent.com/pricing"]').remove();
     $('nz-avatar').remove();
     $('.cc-nsge').remove();
   } else if (window.location.hostname.indexOf("peppercontent") > -1) {
-    $('title').text('Provide By Bdseotools.com | Peppercontent');
+    $('title').text('Provide By tool.com | Peppercontent');
     $('.Topbar-module__avatarButton___Xb2gu').remove();
     $('a[href="/account"]').remove();
     var module__header___ngiMM = $('.Home-module__header___ngiMM');
-    module__header___ngiMM.eq(0).html('<h1>Welcome, Bdseotools User!</h1>');
+    module__header___ngiMM.eq(0).html('<h1>Welcome, tool User!</h1>');
   } else if (window.location.hostname.indexOf("steve") > -1) {
-    $('title').text('Provide By Bdseotools.com | Steve');
+    $('title').text('Provide By tool.com | Steve');
     $('.profile_image_icon').remove();
     $('.profile_display_section').remove();
     $('a[href="/account"]').remove();
     $('[data-target="#inviteModal"]').remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
   } else if (window.location.hostname.indexOf("wave") > -1) {
-    $('title').text('Provide By Bdseotools.com | Wave');
+    $('title').text('Provide By tool.com | Wave');
     $('.sc-1simk4k-0.hcMNWZ').remove();
     $('.profile_display_section').remove();
     $('a[href="/account"]').remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
   } else if (window.location.hostname.indexOf("videocreator") > -1) {
-    $('title').text('Provide By Bdseotools.com | Videocreator');
+    $('title').text('Provide By tool.com | Videocreator');
     $('.user-parent.d-flex.align-items-center').remove();
     $('.profile_display_section').remove();
     $('a[href="/account"]').remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
   } else if (window.location.hostname.indexOf("wideo") > -1) {
-    $('title').text('Provide By Bdseotools.com | Wideo');
+    $('title').text('Provide By tool.com | Wideo');
     $('a.dropdown-toggle.ng-binding').remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
   } else if (window.location.hostname.indexOf("offeo") > -1) {
-    $('title').text('Provide By Bdseotools.com | Offeo');
+    $('title').text('Provide By tool.com | Offeo');
     $('#fc_widget').remove();
     $('.sidebar-header').remove();
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
   } else if (window.location.hostname.indexOf("linkedin") > -1) {
-    $('title').text('Provide By Bdseotools.com | Linkedin');
+    $('title').text('Provide By tool.com | Linkedin');
     $('#fc_widget').remove();
   } else if (window.location.hostname.indexOf("primevideo") > -1) {
-    $('title').text('Provide By Bdseotools.com | Primevideo');
+    $('title').text('Provide By tool.com | Primevideo');
     $('#fc_widget').remove();
     $('a[href="/region/fe/profiles/ref=atv_pr_nv_mng?step=manage"]').remove();
     $('a[href="/region/fe/gp/flex/video/ref=atv_nb_sign_out?action=sign-out"]').remove();
     $('a[href="/region/fe/settings/ref=atv_nb_set"]').remove();
     $('a[href="/region/fe/settings/ref=atv_nb_set"]').remove();
   } else if (window.location.hostname.indexOf("netflix") > -1) {
-    $('title').text('Provide By Bdseotools.com | Netflix');
+    $('title').text('Provide By tool.com | Netflix');
     $('a[href="/account/profile*"]').remove();
     $('a[href="/ManageProfiles"]').remove();
     $('a[href="/profiles/manage"]').remove();
@@ -5555,7 +5555,7 @@ function callme() {
     $('a[href="/SignOut?lnkctr=mL"]').remove();
     var profileNames = $('.profile-name'); let numnetf = 1;
     profileNames.each(function () {
-      $(this).text('BDSEOTOOLS ACC ' + numnetf);
+      $(this).text('tool ACC ' + numnetf);
       numnetf++;
     });
   } else if (window.location.hostname.indexOf("creativefabrica") > -1) {
@@ -5735,7 +5735,7 @@ function callme() {
       $(".ok2g_v2i6KAtSX08ySuv7").remove();
     });
   } else if (window.location.hostname.indexOf("skillshare") > -1) {
-    $('title').text('Provide By Bdseotools.com | Skillshare');
+    $('title').text('Provide By tool.com | Skillshare');
     $(".intercom-lightweight-app-launcher.intercom-launcher").remove();
     $(".banner-content").remove();
     $(".gamification-banner").remove();
